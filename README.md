@@ -1,4 +1,4 @@
-# 🏏 Cricket Data Management System (SQL vs NoSQL Performance Study)
+# Data Management System (SQL vs NoSQL Performance Study)
 
 ### 📌 Overview
 This project was developed to **showcase advanced SQL skills** through the design and implementation of a **Cricket Event Management System**.  
